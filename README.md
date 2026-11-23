@@ -12,7 +12,7 @@
 
 Live Melbourne trains, trams, buses and V/Line on one map: departure boards that show the actual train, alerts that follow your real trip, a trip planner with coaches and plan Bs, and live fleet tracking for every set on the network.
 
-👉 **[See TransitAlert](https://github.com/comengfreak/TransitAlert)** · **[Open the app](https://transit-alert.com)** · **[Google Play](https://play.google.com/store/apps/details?id=app.floot.u444d0d60f01f4a67a474ba6f61aabb9f)** · 🍎 **Apple App Store: coming soon**
+👉 **[See TransitAlert](https://github.com/comengfreak/TransitAlert)** · **[Open the app](https://transit-alert.com)** · **[Google Play](https://transit-alert.com/play?from=github)** · 🍎 **Apple App Store: coming soon**
 
 ### 🛠️ What I work with
 
